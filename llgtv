@@ -73,7 +73,7 @@ https://melon-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/vtv.png" group-title="🇮🇩 LOKAL ID Auto🇮🇩",VIVA TV
-http://103.150.117.215:25461/215@v2old/M0js5Y5vVA/11833
+http://103.237.32.213:9981/stream/channelid/757539105?profile=pass
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/beritasatu.png" group-title="🇮🇩 LOKAL ID Auto🇮🇩",BERITA SATU Auto
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
@@ -109,9 +109,8 @@ https://melon-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="🇮🇩 LOKAL ID Auto🇮🇩", MOJI (indi)
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-#http://iptvtree.net:8080/F14995/a84c0963/298550
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="🇮🇩 LOKAL ID Auto🇮🇩", MOJI 
+http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
 
 #EXTINF:-1 tvg-name="MentariTV" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/mentaritv.png" group-title="🇮🇩 LOKAL ID Auto🇮🇩", Mentari TV
@@ -646,14 +645,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/tvri_sports.png" group-title="🇮🇩 | SPORTS ID",TVRI SPORT HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/fight_sports.png" group-title="🇮🇩 | SPORTS ID",FIGHT SPORTS Auto reso
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
-
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/fight_sports.png" group-title="🇮🇩 | SPORTS ID",FIGHT SPORTS 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
@@ -666,6 +657,21 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 10) ExoPlayerLib/2.18.1
 https://tv.burhansyam.com/api/o2.m3u8?ch=moji&t=666
 
+#EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="🇮🇩 | SPORTS ID", MOJI HD
+#http://xtv.ooo:8080/live/6301638/5295385/350997.m3u8
+
+#EXTINF:-1 group-title="🇮🇩 | SPORTS ID" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" ,MOJI RD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/billiardtv.png" group-title="🇮🇩 | SPORTS ID",BILLIARD TV 
+https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
+
+
+#EXTINF:-1 tvg-id="Indosiar" group-title="🇮🇩 | SPORTS ID" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/indosiar.png" ,INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://103.237.32.213:9981/stream/channelid/1888111875?profile=pass
 ///////////=========== SPORT==========================////////////////
 
 --------------------------------------------------SSC Sport--------------------------------------------------------------
@@ -763,12 +769,41 @@ http://iptvkita.my.id:25461/direct/hometv/1831
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://iptvkita.my.id:25461/direct/hometv/1832
 ========================================================================================================
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/502.png" group-title="🇦🇺 | FOX SPORTS",FOX 502 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/502.png" group-title="SPORTS",FOX 502 HD
 http://iptvkita.my.id:25461/direct/hometv/1876
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/504.png" group-title="🇦🇺 | FOX SPORTS",FOX 504 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/504.png" group-title="SPORTS",FOX 504 HD
 http://iptvkita.my.id:25461/direct/hometv/1877
 
 ========================================================================================================
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" tvg-chno="4506" group-title="SPORTS", FIFA+
+https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
+https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
+==========================================================================================================
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/sonyten.png" group-title="SPORTS", Sony Ten 1
+#https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports1_norvegicus/playlist.m3u8
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/109983
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/sonyten.png" group-title="SPORTS", Sony Ten 2
+#https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports2_norvegicus/playlist.m3u8
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/109984
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/sonyten.png" group-title="SPORTS", Sony Ten 3
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/109985
+#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/56191
+
+========================================================================================================
+
+========================================================================================================
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="premierebr" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/asrosport4.png", TV 2 SPORT PREMIUM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d12e4c9dc52f4cbab7ac9b2278317e47:a7987e5b6ec42db68a25486e108ca9f2
+https://ch11-hls-live.akamaized.net/out/u/433127.mpd
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-id="premierebr" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/asrosport4.png", PREMIER LEAGUE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
 ######################
 -----LIGA INGGRIS-----
 ######################
@@ -779,17 +814,3 @@ http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=457085
 http://nightmare-tv.xyz:8080/play/live.php?mac=00:1A:79:01:73:48&stream=482839_&extension=ts
 #EXTINF:-1 tvg-logo="https://bangsaonline.com/images/uploads/berita/700/5d0e52c8052a2a6c7168781ca9bcd89d.jpg" group-title="🇬🇧LIGA INGGRIS🇬🇧 ", LIVE 12
 http://foxx.pure-iptv.net:8080/play/live.php?mac=00:1A:79:55:11:BA&stream=57804_&extension=ts
-========================================================================================================
-#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GBBD1100008YW_20230926T032319SQUARE.png_20230926032320.png" tvg-chno="4506" group-title="SPORT", FIFA+
-https://i.mjh.nz/SamsungTVPlus/GBBD1100008YW.m3u8
-https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
-==========================================================================================================
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/sonyten.png" group-title="Sports", Sony Ten 1
-#https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports1_norvegicus/playlist.m3u8
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/109983
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/sonyten.png" group-title="Sports", Sony Ten 2
-#https://peytv.fun/play/pribadi@peytv.fun/78487690/vRN6d58T/norvegicus/sony_sports2_norvegicus/playlist.m3u8
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/109984
-#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/sonyten.png" group-title="Sports", Sony Ten 3
-http://xtv.ooo:8080/Faisal0333/Adnan2148703/109985
-#http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/56191
