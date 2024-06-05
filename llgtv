@@ -655,15 +655,8 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-name="MOJI" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="🇮🇩 | SPORTS ID",Moji
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 10) ExoPlayerLib/2.18.1
-https://tv.burhansyam.com/api/o2.m3u8?ch=moji&t=666
+https://raw.githubusercontent.com/quuen2024/king/queen/moji.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MOJI HD" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="🇮🇩 | SPORTS ID", MOJI HD
-#http://xtv.ooo:8080/live/6301638/5295385/350997.m3u8
-
-#EXTINF:-1 group-title="🇮🇩 | SPORTS ID" tvg-id="moji" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" ,MOJI RD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
-http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/billiardtv.png" group-title="🇮🇩 | SPORTS ID",BILLIARD TV 
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
