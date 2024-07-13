@@ -73,8 +73,10 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-name="MOJI" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="🇮🇩 | SPORTS ID",Moji
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 10) ExoPlayerLib/2.18.1
-https://raw.githubusercontent.com/quuen2024/king/queen/moj.m3u8
 http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="🇮🇩 | SPORTS ID",Moji HD 
+http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/billiardtv.png" group-title="🇮🇩 | SPORTS ID",BILLIARD TV 
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
@@ -451,4 +453,269 @@ http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3509
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sky_Sport_Switzerland.svg/1600px-Sky_Sport_Switzerland.svg.png?20190203111014" group-title="Sports" ,Sky Sports Golf UK
 http://iptvkita.my.id:25461/Dirga@1604/Dirga1604/3510
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",EuroSport 1 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2286
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",EuroSport 2 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2285
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TNT Sports 1 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2337
+TNT Sports 2 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2336
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TNT Sports 2 HD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2326
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TNT Sports 3 FHD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2335
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TNT Sports 3 HD UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2325
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3706
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 4 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5313
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 5 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5312
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 6 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5311
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 7 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5310
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports 8 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5309
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports La Liga US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5314
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",BeIN Sports LaLiga US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/5308
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Bein Sports CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3153
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Bein Sports HD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/88062
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Bein Sports UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3612
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Bein Sports Xtra US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/434356
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Eir Sport 1 UK
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2289
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Eir Sport 2 UK,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2287
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Eleven Sports US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3810
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3725
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN 2 (SD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/21590
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN 2 (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2581
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN 2 LHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3726
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN 2 UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3637
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN SD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/21589
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN SEC Network US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/650415
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPN UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3636
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPNU (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/648974
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPNU UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3638
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",ESPNU US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2576
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Euro World Sport (R) CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/647743
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fight Network CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3105
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fight Network SD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/97533
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 1 (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2501
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 1 LHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3732
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 1 SD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/21592
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 1 UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3645
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 2 (SHD) US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3733
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 2 SD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/21593
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 2 UHD US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3646
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports 2 US,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/2500
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",Fox Sports Racing CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3053
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 501" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="SPORTS",Fox Sports 501
+http://premiumiptvmk.com:8080/F19236/516c41c7/279034
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="SPORTS",Fox Sports 502
+http://premiumiptvmk.com:8080/F19236/516c41c7/81784
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="SPORTS",Fox Sports 503
+http://premiumiptvmk.com:8080/F19236/516c41c7/280192
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="SPORTS",Fox Sports 504
+http://premiumiptvmk.com:8080/F19236/516c41c7/280193
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 505" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="SPORTS",Fox Sports 505
+http://premiumiptvmk.com:8080/F19236/516c41c7/144772
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="SPORTS",Fox Sports 506
+http://premiumiptvmk.com:8080/F19236/516c41c7/279033
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="SPORTS",Fox Sports 507
+http://premiumiptvmk.com:8080/F19236/516c41c7/280194
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 1 UHD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3146
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 2 HD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/88080
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 2 UHD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3145
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 3 UHD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3144
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 4 HD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/88078
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 4 UHD CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3143
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 5 CA,
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/88079
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="SPORTS",TSN 5 UHD
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3142
+
+EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="SPORTS" , FIFA+ 1 🌏
+https://38ca3c9c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="SPORTS" , FIFA+ 2 🌏
+https://4b92bb6a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1hdF9GSUZBUGx1c19ITFM/playlist.m3u8
+
+#EXTINF:-1 channel-id="samsung-GBBD1100008YW" tvg-id="GBBD1100008YW" tvg-chno="4008" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQY4ve1510RPsRSTm-Fb1-cfPIhB1xcP5LBKRXs5KwncQ&s" group-title="SPORTS" , FIFA+ 3 🌏
+https://6953b888.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctcHRfRklGQVBsdXNfSExT/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/5ed7e790e31357324d7aff357a1ea730.png" group-title="SPORTS",NZ Sky Sport 1
+http://premiumiptvmk.com:8080/F19236/516c41c7/302393
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/a6b9f0bf3612b084e53247b809cecc5c.png" group-title="SPORTS",NZ Sky Sport 2
+http://premiumiptvmk.com:8080/F19236/516c41c7/302394
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/0bf9466c8f578761dadc9ce1f99f5677.png" group-title="SPORTS",NZ Sky Sport 3
+http://premiumiptvmk.com:8080/F19236/516c41c7/302395
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/eb66040f6d5b2b1b68d081dd34668033.png" group-title="SPORTS",NZ Sky Sport 4
+http://premiumiptvmk.com:8080/F19236/516c41c7/302396
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/773a17d6f9d31094cb82ed98f197cc96.png" group-title="SPORTS",NZ Sky Sport 5
+http://premiumiptvmk.com:8080/F19236/516c41c7/302397
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/7d464629e0c6826c1afcae7478a2172d.png" group-title="SPORTS",NZ Sky Sport 6
+http://premiumiptvmk.com:8080/F19236/516c41c7/302398
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/d8922f9133b9e38996ef277d5ce830a6.png" group-title="SPORTS",NZ Sky Sport 7
+http://premiumiptvmk.com:8080/F19236/516c41c7/302399
+#EXTINF:-1 tvg-id="" tvg-name="NZ Sky Sport 8" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-03/299061401984bbf6f42c7859bdd45ac3.png" group-title="SPORTS",NZ Sky Sport 8
+http://premiumiptvmk.com:8080/F19236/516c41c7/302400
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="SPORT",SuperSport Action
+http://premiumiptvmk.com:8080/F19236/516c41c7/194354
+0
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Blitz" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-10/0a52ab66352a2b8d466ccdb407570cad.jpg" group-title="SPORT",SuperSport Blitz
+http://premiumiptvmk.com:8080/F19236/516c41c7/281536
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="SPORT",SuperSport Cricket
+http://premiumiptvmk.com:8080/F19236/516c41c7/11637
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Golf" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="SPORT",SuperSport Golf
+http://premiumiptvmk.com:8080/F19236/516c41c7/11641
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="SPORT",SuperSport Grandstand
+http://premiumiptvmk.com:8080/F19236/516c41c7/194353
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="SPORT",SuperSport LaLiga
+http://premiumiptvmk.com:8080/F19236/516c41c7/194358
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="SPORT",SuperSport Motorsport
+http://premiumiptvmk.com:8080/F19236/516c41c7/11638
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 1" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 1
+http://premiumiptvmk.com:8080/F19236/516c41c7/197704
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 2" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 2
+http://premiumiptvmk.com:8080/F19236/516c41c7/304120
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 3" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 3
+http://premiumiptvmk.com:8080/F19236/516c41c7/304121
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 4" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 4
+http://premiumiptvmk.com:8080/F19236/516c41c7/304122
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 5" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 5
+http://premiumiptvmk.com:8080/F19236/516c41c7/304123
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 6" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 6
+http://premiumiptvmk.com:8080/F19236/516c41c7/304124
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 7" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 7
+http://premiumiptvmk.com:8080/F19236/516c41c7/304125
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport OTT 8" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport OTT 8
+http://premiumiptvmk.com:8080/F19236/516c41c7/304126
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Play" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="SPORT",SuperSport Play
+http://premiumiptvmk.com:8080/F19236/516c41c7/201121
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="SPORT",SuperSport Rugby
+http://premiumiptvmk.com:8080/F19236/516c41c7/11639
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="SPORT",SuperSport Tennis
+http://premiumiptvmk.com:8080/F19236/516c41c7/15200
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="SPORT",SuperSport Variety 1
+http://premiumiptvmk.com:8080/F19236/516c41c7/11633
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="SPORT",SuperSport Variety 2
+http://premiumiptvmk.com:8080/F19236/516c41c7/11634
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="SPORT",SuperSport Variety 3
+http://premiumiptvmk.com:8080/F19236/516c41c7/11635
+
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="SPORT",SuperSport Variety 4
+http://premiumiptvmk.com:8080/F19236/516c41c7/11636
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", BEIN SPORTS MAX 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112542&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein",| BEIN SPORTS MAX 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112541&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", SPORTS MAX 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112539&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", SPORTS MAX 1 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112538&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein",BEIN SPORTS MAX 2 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112511&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", BEIN SPORTS MAX 2 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112512&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein", BEIN SPORTS MAX 2 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112509&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ABgCjYP.png" group-title=" Bein",BEIN SPORTS MAX 2 HEVC
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=112489&extension=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title=" Bein", BEIN SPORTS 1 SD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105104&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title=" Bein", BEIN SPORTS 1 HD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105103&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sOtkVtv.png" group-title=" Bein", BEIN SPORTS 1 FHD
+http://r365.city:2103/play/live.php?mac=00:1A:79:0F:2F:99&stream=105102&extension=ts
+
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN002:BeIN Sport 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN002 BeIN Sport 1 HD.png" group-title=" Bein",BeIN Sport 1 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2140
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN003:BeIN Sport 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN003 BeIN Sport 2 HD.png" group-title=" Bein",BeIN Sport 2 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2139
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN004:BeIN Sport 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN004 BeIN Sport 3 HD.png" group-title=" Bein",BeIN Sport 3 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2138
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN005:BeIN Sport 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN005 BeIN Sport 4 HD.png" group-title=" Bein",BeIN Sport 4 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2137
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN006:BeIN Sport 5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN006 BeIN Sport 5 HD.png" group-title=" Bein",BeIN Sport 5 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2136
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN007:BeIN Sport 6 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN007 BeIN Sport 6 HD.png" group-title="Bein",BeIN Sport 6 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2135
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN008:BeIN Sport 7 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN008 BeIN Sport 7 HD.png" group-title=" Bein",BeIN Sport 7 HD
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2134
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN012:BeIN Sport ENG 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN012 BeIN Sport ENG 1.png" group-title=" Bein",BBeIN Sport ENG 1
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2130
+#EXTINF:-1 tvg-id="21.junior.al" tvg-name="BN013:BeIN Sport ENG 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/AR/AR Bein/BN013 BeIN Sport ENG 2.png" group-title=" Bein",BeIN Sport ENG 2
+http://mohdtv.com:8880/ALLChannels1ae470dcccd5/61323333/2129
 
