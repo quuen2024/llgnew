@@ -73,15 +73,17 @@ https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mp
 #EXTINF:-1 tvg-name="MOJI" tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="🇮🇩 | SPORTS ID",Moji
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Oxygen TV/5.9.240112 (Linux;Android 10) ExoPlayerLib/2.18.1
-http://103.155.250.139:25461/live/v3/Ub5dHa4TJp/4.m3u8
+https://raw.githubusercontent.com/quuen2024/king/queen/moji.m3u8
 
 #EXTINF:0 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/moji.png" group-title="🇮🇩 | SPORTS ID",Moji HD 
-http://cheaptv.online:8080/one-day-test-89fc/54CbToqS2c/298550
+https://raw.githubusercontent.com/quuen2024/king/queen/mji.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/service/queen/billiardtv.png" group-title="🇮🇩 | SPORTS ID",BILLIARD TV 
 https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/indosiar.png" group-title="🇮🇩 | SPORTS ID", IND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://raw.githubusercontent.com/quuen2024/king/queen/1nd.m3u8
 
 ///////////=========== SPORT==========================////////////////
 
