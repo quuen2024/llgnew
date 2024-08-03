@@ -53,7 +53,7 @@ https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://melon-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/indosiar.png" group-title=" LOKAL ID Auto🇮🇩",INDOSIAR 
+#EXTINF:0 tvg-id="ext" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/indosiar.png" group-title=" 🇮🇩 LOKAL ID Auto🇮🇩",INDOSIAR 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
