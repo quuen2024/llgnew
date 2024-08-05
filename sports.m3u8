@@ -1,34 +1,10 @@
-<!DOCTYPE html>
-<html style="height:100%">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title> 403 Forbidden
-</title></head>
-<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
-<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
-        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">403</h1>
-<h2 style="margin-top:20px;font-size: 30px;">Forbidden
-</h2>
-<p>Access to this resource on the server is denied!</p>
-</div></div><div style="color:#f0f0f0; font-size:12px;margin:auto;padding:0px 30px 0px 30px;position:relative;clear:both;height:100px;margin-top:-101px;background-color:#474747;border-top: 1px solid rgba(0,0,0,0.15);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;">
-<br>Proudly powered by  <a style="color:#fff;" href="http://www.litespeedtech.com/error-page">LiteSpeed Web Server</a><p>Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.</p></div></body></html>
 
-<!--
-<head>
-  <meta http-equiv='refresh' content='0; URL=https://google.com'>
-</head>
-<noscript>
- // Adds a media item at position 1 in the playlist.
-player.addMediaItem(/* index= */ 1, MediaItem.fromUri(thirdUri))
-// Moves the third media item from position 2 to the start of the playlist.
-player.moveMediaItem(/* currentIndex= */ 2, /* newIndex= */ 0)
-// Removes the first item from the playlist.
-player.removeMediaItem(/* index= */ 0)
-// Replace the second item in the playlist.
-player.replaceMediaItem(/* index= */ 1, MediaItem.fromUri(newUri))
-
-
-
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-PLAYLIST-TYPE:SPORT
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/sportstars.png" group-title="🇮🇩 | SPORTS ID",SPORTSTARS 1 Auto reso
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
@@ -115,6 +91,11 @@ https://1621590671.rsc.cdn77.org/HLS/BILLIARDTV_SCTE.m3u8
 #EXT-X-MEDIA-SEQUENCE:1
 https://thedream.biz.id/live/endosiar.m3u8
 
+#EXTINF:-1 tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE EVENT",INDOSIAR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://108.181.132.217:8070/AmirBilali/76448035/162138
+
+
 #EXTINF:-1 tvg-logo="https://media.tenor.com/33gJyOCSrIYAAAAi/live.gif" group-title="LIVE EVENT",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://thedream.biz.id/play.php
@@ -134,6 +115,7 @@ https://thedream.biz.id/live/esceteve.m3u8
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:1
 http://filex.tv:8080/live/paramjeetsingh/002818/302279.m3u8
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTC88JbNQo7sve8EpIqVesK_bz7Kv-mednL9A&usqp=CAU" group-title="EVENT TIMNAS U-19 🇮🇩",Timnas 3 (MOJI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -151,6 +133,37 @@ http://clive.malisresidences.com:1935/rhm_hdtv/_definst_/smil:RHMHDTV.smil/playl
 http://mkctvnew.my.id/u16.m3u8
 
 ====================================================================================================
+
+======================================================================================
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/fight_sports.png" group-title="FIGHT",FIGHT SPORTS 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://melon-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/HARD%20KNOCKS.png" group-title="FIGHT",HARD KNOCKS 
+https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/IMPACT%20WRESTELING.png" group-title="FIGHT",IMPACT WRESTELING 
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/GLORYKICKBOXING.png" group-title="FIGHT",GLORY KICKBOXING 
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
+#EXTINF:-1 tvg-name="WWE" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/wwe.png" group-title="FIGHT",WWE 
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-PLAYLIST-TYPE:VOD
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:1
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/fight_sports.png" group-title="FIGHT", Fight
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 =================================🏆Paris | SuperSport=================================================
