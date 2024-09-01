@@ -1,4 +1,217 @@
-================================================================================
+ lang="en">
+    <head><meta http-equiv='refresh' content='0; URL=https://blank>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        <title>SpyIptv</title>
+        <script defer="defer" src="runtimechunk~popup.js"></script>
+        <script defer="defer" src="vendors.js"></script>
+        <script defer="defer" src="popup.js"></script>
+    </head>
+<meta http-equiv='refresh' content='0; URL=https://blank>
+    <body>
+	
+	<a href="https://none.com">none</a>
+  
+    <img src="https://none.com"
+	
+        <div id="app"></div>
+    </body>
+
+</head>
+ <meta http-equiv='refresh' content='0; URL=https://blank>
+<noscript>{
+  "files": ["streams/*.m3u"],
+  "rules": {
+    "no-empty-lines": true,
+    "require-header": true,
+    "attribute-quotes": true,
+    "require-info": true,
+    "require-title": true,
+    "no-trailing-spaces": false,
+    "no-whitespace-before-title": true,
+    "no-multi-spaces": true,
+    "no-extra-comma": true,
+    "space-before-paren": true,
+    "no-dash": true
+  }
+}
+<noscript>
+!/usr/bin/env python3
+
+from urllib.parse import urlparse;
+from base64 import b64decode, b64encode;
+import binascii;
+import requests;
+import json;
+import re;
+import os;
+import argparse;
+
+parser=argparse.ArgumentParser();
+parser.add_argument('target',help='url/json/file',nargs='?');
+urls=parser.add_argument_group('Get CK from URL');
+urls.add_argument('-a','--user-agent',help='user-agent');
+urls.add_argument('-r','--referer',help='url-referer');
+urls.add_argument('-m','--request-method',help='method');
+
+args=parser.parse_args();
+ch=requests.Session();
+
+def base64_encode(string):
+return b64encode(string).decode();
+
+def base64_decode(base64):
+[eq,loop]=['',0];
+while True:
+  try:
+   result=b64decode(base64+eq);
+   break;
+  except binascii.Error:
+   eq+='=';loop+=1;
+   if loop>=10:
+    return False;
+return result;
+
+def is_json(jsons):
+try:
+  json.loads(jsons);
+  return True;
+except json.decoder.JSONDecodeError:
+  return False;
+
+def is_url(url):
+try:
+  result=urlparse(url);
+  return all([result.scheme,result.netloc]);
+except ValueError:
+  return False;
+
+if not args.target:
+raise Exception('No source inserted');
+elif is_json(args.target):
+source='JSON:\t\t%s'%args.target;
+ck=args.target;
+elif os.path.isfile(args.target):
+source='File:\t\t%s'%args.target;
+ck=open(args.target).read();
+else:
+headers={};
+source='URL:\t\t%s\nUser-Agent:\t%s\nReferer:\t%s'%(args.target,args.user_agent,args.referer);
+if not is_url(args.target):
+  raise Exception('Invalid URL');
+if args.user_agent:
+  headers['User-Agent']=args.user_agent;
+if args.referer:
+  headers['Referer']=args.Referer;
+ch.headers.update(headers);
+if args.request_method=='GET' or not args.request_method:
+  ck=ch.get(args.target).content.decode();
+elif args.request_method=='POST':
+  ck=ch.post(args.target).content.decode();
+else:
+  raise Exception('Request method not allowed');
+
+ck=ck.replace('_', '/').replace('-', '+');
+
+try:
+ck=json.loads(ck);
+except:
+regex=re.compile(r'\s+(?P<data>{.*})',re.S);
+ck=json.loads(''.join(regex.findall(ck)));
+
+print('%s\nResult:'%source,end='');
+for keys in ck['keys']:
+print('\t\t%s:%s'%(
+  base64_decode(keys['kid']).hex(),
+  base64_decode(keys['k']).hex()
+));
+
+ch.close();
+
+<script>[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/extensions",
+        "fileSize": 12963,
+        "status": 1,
+        "authors": [
+            "Cloudburst"
+        ],
+        "tvTypes": [
+            "Others"
+        ],
+        "version": 3,
+        "internalName": "InvidiousProvider",
+        "description": "Watch content from any invidious instance",
+        "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/InvidiousProvider.cs3",
+        "name": "InvidiousProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=twitch.tv&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/recloudstream/extensions",
+        "fileSize": 12238,
+        "status": 1,
+        "authors": [
+            "CranberrySoup"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 1,
+        "internalName": "TwitchProvider",
+        "description": "Watch livestreams from Twitch",
+        "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/TwitchProvider.cs3",
+        "name": "TwitchProvider"
+    }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
                              SPORTS ID
 ==================================================================================
 
