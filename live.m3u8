@@ -239,7 +239,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZmFiYmFjZmQtYzYyZi0zMGQxLWIzZTctNWFiMzZjMDA1ZWZl
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 group-title="🇮🇩 LOKAL ID Auto🇮🇩" tvg-logo="https://i.imgur.com/uTPwkhC.png", RCTI (V+) 
+#EXTINF:-1 group-title="🇮🇩 LOKAL ID Auto🇮🇩" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/rcti.png", RCTI (V+) 
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 -----------------------------------------------------------------------------------------------------------------------------------------------------
 
