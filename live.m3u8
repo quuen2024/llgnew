@@ -1,34 +1,3 @@
-<!DOCTYPE html>
-<html style="height:100%">
-<head>
-<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-<title> 403 Forbidden
-</title></head>
-<body style="color: #444; margin:0;font: normal 14px/20px Arial, Helvetica, sans-serif; height:100%; background-color: #fff;">
-<div style="height:auto; min-height:100%; ">     <div style="text-align: center; width:800px; margin-left: -400px; position:absolute; top: 30%; left:50%;">
-        <h1 style="margin:0; font-size:150px; line-height:150px; font-weight:bold;">403</h1>
-<h2 style="margin-top:20px;font-size: 30px;">Forbidden
-</h2>
-<p>Access to this resource on the server is denied!</p>
-</div></div><div style="color:#f0f0f0; font-size:12px;margin:auto;padding:0px 30px 0px 30px;position:relative;clear:both;height:100px;margin-top:-101px;background-color:#474747;border-top: 1px solid rgba(0,0,0,0.15);box-shadow: 0 1px 0 rgba(255, 255, 255, 0.3) inset;">
-<br>Proudly powered by  <a style="color:#fff;" href="http://www.litespeedtech.com/error-page">LiteSpeed Web Server</a><p>Please be advised that LiteSpeed Technologies Inc. is not a web hosting company and, as such, has no control over content found on this site.</p></div></body></html>
-
-<!--
-<head>
-  <meta http-equiv='refresh' content='0; URL=https://google.com'>
-</head>
-<noscript>
- // Adds a media item at position 1 in the playlist.
-player.addMediaItem(/* index= */ 1, MediaItem.fromUri(thirdUri))
-// Moves the third media item from position 2 to the start of the playlist.
-player.moveMediaItem(/* currentIndex= */ 2, /* newIndex= */ 0)
-// Removes the first item from the playlist.
-player.removeMediaItem(/* index= */ 0)
-// Replace the second item in the playlist.
-player.replaceMediaItem(/* index= */ 1, MediaItem.fromUri(newUri))
-
-
-
 {
   "name": "nsplayer",
   "version": "0.7.0",
@@ -213,6 +182,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=205&type=drm 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
 https://gatotkaca007.serv00.net/red/play.mpd?id=205&type=dash
+
+#EXTINF:-1 tvg-name="Indosiar" tvg-logo="https://raw.githubusercontent.com/quuen2024/queen_logo/queen/indosiar.png" group-title="🇮🇩 LOKAL ID Auto🇮🇩",INDOSIAR HD
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/162138
 -----------------------------------------------------------------------------------------------------------------------------------------------------=
 
 #EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV" tvg-logo="https://saktitv.my.id/logo/lokal1/sctv.png" group-title="🇮🇩 LOKAL ID Auto🇮🇩",SCTV
@@ -288,6 +262,12 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(a75d0b62-972c
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch107.m3u8
 ===========================================================================================================================================
+#EXTINF:0 tvg-country="ID" tvg-logo="https://upload.wikimedia.org/wikipedia/id/d/d7/Channel_Jowo.png" group-title="🇮🇩 LOKAL ID Auto🇮🇩",Jowo Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
+
+
+
 =========================================================================================================================================
 =====================================================================================================================================
 
